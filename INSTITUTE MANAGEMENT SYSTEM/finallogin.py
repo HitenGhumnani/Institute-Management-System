@@ -14,7 +14,7 @@ app.geometry("400x400")
 app.title("INSTITUTE MANAGEMENT SYSTEM") 
 
 def mainform():
-    call(["python", "final.py"])
+    call(["python", "INSTITUTE MANAGEMENT SYSTEM/final.py"])
     
   
 def login(): 
