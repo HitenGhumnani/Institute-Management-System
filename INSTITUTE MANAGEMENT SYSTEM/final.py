@@ -3,88 +3,88 @@ from subprocess import call
 import sys
 
 def enquiry():
-    call(["python", b"C:\Users\janvi\OneDrive\Desktop\PYTHON\INSTITUTE MANAGEMENT SYSTEM\STUDENT\enquiry.py"])
+    call(["python", b"INSTITUTE MANAGEMENT SYSTEM/STUDENT/enquiry.py"])
 
 def feedback():
-    call(["python", "feedback.py"])
+    call(["python", b"INSTITUTE MANAGEMENT SYSTEM/STUDENT/feedback.py"])
 
 def admission():
-    call(["python", "admission.py"])
+    call(["python", b"INSTITUTE MANAGEMENT SYSTEM/STUDENT/admission.py"])
 
 def fees():
-    call(["python", "fees.py"])
+    call(["python", b"INSTITUTE MANAGEMENT SYSTEM/STUDENT/fees.py"])
 
 def attendance():
-    call(["python", "attendance.py"])
+    call(["python", b"INSTITUTE MANAGEMENT SYSTEM/STUDENT/attendance.py"])
 
 def examination():
-    call(["python", "examination.py"])
+    call(["python", b"INSTITUTE MANAGEMENT SYSTEM/STUDENT/examination.py"])
 
 def examfees():
-    call(["python", "examfees.py"])
+    call(["python", b"INSTITUTE MANAGEMENT SYSTEM/STUDENT/examfees.py"])
 
 def registration():
-    call(["python", "registration.py"])
+    call(["python", b"INSTITUTE MANAGEMENT SYSTEM/STAFF/registration.py"])
 
 def attendace2():
-    call(["python", "attendace[staff].py"])
+    call(["python", b"INSTITUTE MANAGEMENT SYSTEM/STAFF/attendace[staff].py"])
 
 def salary():
-    call(["python", "salary.py"])
+    call(["python", b"INSTITUTE MANAGEMENT SYSTEM/STAFF/salary.py"])
 
 def batch_allocation():
-    call(["python", "batch_allocation.py"])
+    call(["python", b"INSTITUTE MANAGEMENT SYSTEM/STAFF/batch_allocation.py"])
 
 def payments():
-    call(["python", "payments.py"])
+    call(["python", b"INSTITUTE MANAGEMENT SYSTEM/TRANSACTIONS/payments.py"])
 
 def other_income():
-    call(["python", "other_income.py"])
+    call(["python", b"INSTITUTE MANAGEMENT SYSTEM/TRANSACTIONS/other_income.py"])
 
 def misce_expenses():
-    call(["python", "misce_expenses.py"])
+    call(["python", b"INSTITUTE MANAGEMENT SYSTEM/TRANSACTIONS/misce_expenses.py"])
 
 def enquiry_table():
-    call(["python", "enquiry_table.py"])
+    call(["python", b"INSTITUTE MANAGEMENT SYSTEM/STUDENT/enquiry_table.py"])
 
 def feedback_table():
-    call(["python", "feedback_table.py"])
+    call(["python", b"INSTITUTE MANAGEMENT SYSTEM/STUDENT/feedback_table.py"])
 
 def admission_table():
-    call(["python", "admission_table.py"])
+    call(["python", b"INSTITUTE MANAGEMENT SYSTEM/STUDENT/admission_table.py"])
 
 def fees_table():
-    call(["python", "fees_table.py"])
+    call(["python", b"INSTITUTE MANAGEMENT SYSTEM/STUDENT/fees_table.py"])
 
 def attendance_table():
-    call(["python", "attendance_table.py"])
+    call(["python", b"INSTITUTE MANAGEMENT SYSTEM/STUDENT/attendance_table.py"])
 
 def examination_table():
-    call(["python", "examination_table.py"])
+    call(["python", b"INSTITUTE MANAGEMENT SYSTEM/STUDENT/examination_table.py"])
 
 def examfees_table():
-    call(["python", "examfees_table.py"])
+    call(["python", b"INSTITUTE MANAGEMENT SYSTEM/STUDENT/examfees_table.py"])
 
 def registration_table():
-    call(["python", "registration_table.py"])
+    call(["python", b"INSTITUTE MANAGEMENT SYSTEM/STAFF/registration_table.py"])
 
 def attendace2_table():
-    call(["python", "attendace[staff]_table.py"])
+    call(["python", b"INSTITUTE MANAGEMENT SYSTEM/STAFF/attendace[staff]_table.py"])
 
 def salary_table():
-    call(["python", "salary_table.py"])
+    call(["python", b"INSTITUTE MANAGEMENT SYSTEM/STAFF/salary_table.py"])
 
 def batch_allocation_table():
-    call(["python", "batch_allocation_table.py"])
+    call(["python", b"INSTITUTE MANAGEMENT SYSTEM/STAFF/batch_allocation_table.py"])
 
 def payments_table():
-    call(["python", "payments_table.py"])
+    call(["python", b"INSTITUTE MANAGEMENT SYSTEM/TRANSACTIONS/payments_table.py"])
 
 def other_income_table():
-    call(["python", "other_income_table.py"])
+    call(["python", b"INSTITUTE MANAGEMENT SYSTEM/TRANSACTIONS/other_income_table.py"])
 
 def misce_expenses_table():
-    call(["python", "misce_expenses_table.py"])
+    call(["python", b"INSTITUTE MANAGEMENT SYSTEM/STAFF/misce_expenses_table.py"])
 
 def close():
     sys.exit()
